@@ -20,7 +20,7 @@ Sou Felipe, desenvolvedor em formação com foco em back-end e desenvolvimento d
 
 | Categoria / Category | Tecnologias / Technologies |
 | :-- | :-- |
-| **Linguagens e marcação** / *Languages and markup* | PHP · Python · C++ · JavaScript · SQL · HTML · CSS |
+| **Linguagens e marcação** / *Languages and markup* | ![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=22C55E) ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=22C55E) ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=flat-square&logo=cplusplus&logoColor=22C55E) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=22C55E) `SQL` ![HTML](https://img.shields.io/badge/HTML-161B22?style=flat-square&logo=html5&logoColor=22C55E) ![CSS](https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css3&logoColor=22C55E) |
 | **Frameworks e bibliotecas** / *Frameworks and libraries* | Laravel · Livewire · Bootstrap |
 | **Bancos de dados** / *Databases* | MySQL · SQLite |
 | **Ferramentas e ambientes** / *Tools and environments* | Git · GitHub · Linux · Composer · Vite · npm |
